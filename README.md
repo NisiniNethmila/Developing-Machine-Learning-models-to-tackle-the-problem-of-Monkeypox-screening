@@ -147,11 +147,10 @@ All achieved approximately 72% accuracy after hyperparameter optimisation.
 
 ## Project Structure
 
-├── MonkeyPox_Analysis.ipynb
-├── README.md
-├── dataset/
-│   └── monkeypox.csv
-├── MDA512_Assignment2_Group1
+├── MonkeyPox_Analysis.ipynb          # Python code
+├── README.md  
+├── monkeypox.csv                     # Data file
+└── MDA512_Assignment2_Group1.pdf     # Report
 
 
 ## Report
